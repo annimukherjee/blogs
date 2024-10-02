@@ -3,15 +3,16 @@ languageCode = 'en-us'
 title = 'anni blogs'
 theme = 'PaperMod'
 
+
+
+
+[params]
+author = "Aniruddha Mukherjee"
 enableEmoji = true
 ShowReadingTime = true
 ShowShareButtons = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
-
-
-[params]
-author = "Aniruddha Mukherjee"
 
 [params.homeInfoParams]
 Title = "anni blogs"

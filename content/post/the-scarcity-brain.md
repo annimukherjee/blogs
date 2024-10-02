@@ -7,11 +7,11 @@ categories: ["book-reviews"]
 ---
 
 
-## Idea-1: How Social Media is a Casino
+## Idea 01: How Social Media is a Casino
 
 ### **The scarcity loop**
 
-- Casinoes were a relatively small industry earlier.
+- Casinos were a relatively small industry earlier.
 - An entrepreneur named Si Redd revolutionized slot design
 - Addictive loop
     - Opportunity
@@ -20,6 +20,8 @@ categories: ["book-reviews"]
         - The reward or “win” has to be given un-predictably. This keeps the player engaged.
     - Repeatability
         - Should be painless, frictionless and quick to repeat.
+
+---
 
 `Earlier` slot machines had mechanical bars to turn the slots and there were only 3 slots…
 This led to the following:
@@ -32,22 +34,20 @@ This led to the following:
 
 - Lots of opportunity as the number of scrolling bars have increased.
 - High unpredictability as if any out of the 5 match, a small reward is given
-    
+
+
     > Invest $1, win $0.50 but feel like you’ve won $2
-    > 
+
 - VERY very easy to repeat (digital screens), just press a button and the colourful screen will spin another one!
 
-<aside>
-💡 Current social media platforms do the same thing.
 
-</aside>
+> 💡 Current social media platforms do the same thing.
 
-<aside>
-💡 You Google Feed, YouTube feed, [chess.com](http://chess.com) feed all employ the above 3 psychological hacks to keep you scrolling, and increase their revenue.
 
-</aside>
+> 💡 Your Google Feed, YouTube feed, [chess.com](http://chess.com) feed all employ the above 3 psychological hacks to keep you scrolling, and increase their revenue.
 
-## Idea-2: Less is More
+
+## Idea 02: Less is More
 
 - A Ivy league educated engineer was building a lego bridge with his son.
 - The son removed a brick and this made the bridge more stable.
@@ -60,7 +60,8 @@ This led to the following:
     - An extra 2 Mil in the Bank wouldn’t hurt
     - CEO isn’t enough, I need to chair the Board!
 
-## Idea3: How we become Obese
+
+## Idea 03: How we become obese
 
 - McDonalds is addictive.
 Don’t become obese.
