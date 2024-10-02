@@ -1,0 +1,4 @@
+baseURL = 'https://annimukherjee.github.io/blogs/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
