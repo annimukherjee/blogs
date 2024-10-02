@@ -2,3 +2,51 @@ baseURL = 'https://annimukherjee.github.io/blogs/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
+
+enableEmoji = true
+
+[params]
+author = "Aniruddha Mukherjee"
+
+[params.homeInfoParams]
+Title = "anni blogs"
+Content = """
+Welcome to bits of my culture
+
+- This is a space where I will be sharing stuff about my life!
+"""
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/annimukherjee"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/anni-mukh/"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "index.xml"
+
+ShowReadingTime = true
+ShowShareButtons = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 30
