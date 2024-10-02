@@ -1,6 +1,6 @@
 baseURL = 'https://annimukherjee.github.io/blogs/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'anni blogs'
 theme = 'PaperMod'
 
 enableEmoji = true
@@ -23,6 +23,18 @@ url = "https://github.com/annimukherjee"
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/anni-mukh/"
+
+[[params.socialIcons]]
+name = "x"
+url = "https://x.com/annimukh"
+
+[[params.socialIcons]]
+name = "googlescholar"
+url = "index.xml"
+
+[[params.socialIcons]]
+name = "googlescholar"
+url = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ALUCkoWqKDZk9VNPdaaiHClzQs8VCZ1nSg2cBGBEdb7-bT-x3CAXYO3uBkUsfNp4bLe2Va1eHJOd9yP1n2iW6ufRoCOn&user=M4Nt32MAAAAJ"
 
 [[params.socialIcons]]
 name = "Rss"
