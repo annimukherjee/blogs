@@ -1,10 +1,10 @@
-+++
+---
 title: 'The Scarcity Brain'
 date: 2024-10-03T02:27:15+05:30
 draft: false
 tags: ["golang", "goroutine", "go channel"]
 categories: ["go"]
-+++
+---
 
 
 ## Idea-1: How Social Media is a Casino
