@@ -2,8 +2,8 @@
 title: 'The Scarcity Brain'
 date: 2024-10-03T02:27:15+05:30
 draft: false
-tags: ["golang", "goroutine", "go channel"]
-categories: ["go"]
+tags: ["mindset", "improvement"]
+categories: ["book-reviews"]
 ---
 
 
