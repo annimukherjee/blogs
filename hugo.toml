@@ -4,6 +4,11 @@ title = 'anni blogs'
 theme = 'PaperMod'
 
 enableEmoji = true
+ShowReadingTime = true
+ShowShareButtons = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+
 
 [params]
 author = "Aniruddha Mukherjee"
@@ -30,20 +35,12 @@ url = "https://x.com/annimukh"
 
 [[params.socialIcons]]
 name = "googlescholar"
-url = "index.xml"
-
-[[params.socialIcons]]
-name = "googlescholar"
 url = "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ALUCkoWqKDZk9VNPdaaiHClzQs8VCZ1nSg2cBGBEdb7-bT-x3CAXYO3uBkUsfNp4bLe2Va1eHJOd9yP1n2iW6ufRoCOn&user=M4Nt32MAAAAJ"
 
 [[params.socialIcons]]
 name = "Rss"
 url = "index.xml"
 
-ShowReadingTime = true
-ShowShareButtons = true
-ShowBreadCrumbs = true
-ShowCodeCopyButtons = true
 
 [[menu.main]]
 identifier = "categories"
